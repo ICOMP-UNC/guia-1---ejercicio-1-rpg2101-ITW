@@ -18,6 +18,8 @@ public class Linea
     public void mueveDerecha (double distancia) {
         coordenadaPunto1.setX (coordenadaPunto1.getX() + distancia);
         coordenadaPunto2.setX (coordenadaPunto2.getX() + distancia);
+    // TODO ver
+    
     }
 
 }
